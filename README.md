@@ -7,3 +7,6 @@ Assignment description: This is the capstone project for the Applied Data Scienc
 
 My chosen topic: 
 As a wise man once said, “Food is a central activity of mankind and one of the single most significant trademarks of a culture,” In this notebook, I will be walking with you along the streets of Amsterdam and cherishing its culture through a new lens that sees through the power of Data Science, stomachs and hearts (puns intended).
+
+
+__Github notebook rendering issue: If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account. 
