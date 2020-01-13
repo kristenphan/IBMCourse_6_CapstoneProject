@@ -1,4 +1,4 @@
-# IBMCourse_CapstoneProject: Food and Culture in Amsterdam by Kristen Phan
+# IBMCourse_CapstoneProject: Cuisine Journey in Amsterdam by Kristen Phan
 __Repository description:__ This repository stores the work as part of the IBM Data Science Professional Certificate - Applied Data Science Capstone course - Capstone project. Course URL: https://www.coursera.org/learn/applied-data-science-capstone. All code included in this repository is written by myself, Kristen Phan.
 
 __Jupyter notebook URL:__ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/74fadda0-e23b-4b2b-b7f0-50d998c631b4/view?access_token=5d99f2af6741cadc6d5b644f23283448bf53c590b7e46c8ffecf895ec84596e8
