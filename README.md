@@ -7,6 +7,6 @@ __Alternative URL (Article with code lines on LinkedIn):__ https://www.linkedin.
 
 __Assignment description:__ This is the capstone project for the Applied Data Science Capstone course. The prompt is that a course participant defines a problem or an idea of his or her choice, where s/he would need to leverage the Foursquare location data via Foursquare API to solve or execute.
 
-__My chosen topic:__ As a wise man once said, “Food is a central activity of mankind and one of the single most significant trademarks of a culture,” In this notebook, I will be walking with you along the streets of Amsterdam and cherishing its culture through a new lens that sees through the power of Data Science, stomachs and hearts (puns intended).
+__My chosen topic:__ As a wise man once said, “Food is a central activity of mankind and one of the single most significant trademarks of a culture,” In this notebook, I will be walking with you along the streets of Amsterdam and cherishing its culture through a new lens that sees through the power of Data Science, stomachs and hearts :)
 
 __Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account.
